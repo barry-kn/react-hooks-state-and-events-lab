@@ -11,7 +11,7 @@ function App() {
   return (
     <div className={appClass}>
       <header>
-        <h2>Shopster</h2>
+        
         <DarkMode
           darkMode={darkMode}
           setDarkMode={setDarkMode}
